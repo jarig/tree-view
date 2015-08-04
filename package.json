@@ -3,7 +3,11 @@
   "version": "0.181.1",
   "main": "./lib/main",
   "description": "Explore and open files in the current project. With nested GIT Support!",
-  "repository": "https://github.com/jarig/tree-view",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jarig/tree-view",
+	  "branch": "tree-view-publish"
+  },
   "license": "MIT",
   "engines": {
     "atom": "*"

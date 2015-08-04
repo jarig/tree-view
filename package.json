@@ -5,8 +5,7 @@
   "description": "Explore and open files in the current project. With nested GIT Support!",
   "repository": {
       "type": "git",
-      "url": "https://github.com/jarig/tree-view-nested-git",
-	  "branch": "tree-view-publish"
+      "url": "https://github.com/jarig/tree-view"
   },
   "license": "MIT",
   "engines": {

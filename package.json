@@ -1,11 +1,11 @@
 {
-  "name": "tree-view-git",
+  "name": "tree-view-nested-git",
   "version": "0.181.1",
   "main": "./lib/main",
   "description": "Explore and open files in the current project. With nested GIT Support!",
   "repository": {
       "type": "git",
-      "url": "https://github.com/jarig/tree-view",
+      "url": "https://github.com/jarig/tree-view-nested-git",
 	  "branch": "tree-view-publish"
   },
   "license": "MIT",
